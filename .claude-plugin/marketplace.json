@@ -46,7 +46,7 @@
         "url": "https://github.com/adobe/skills.git",
         "path": "plugins/creative-cloud/adobe-for-creativity",
         "ref": "main",
-        "sha": "cbaeec4138c6006fcdb499c94f545c2a4fa8f568"
+        "sha": "9a3505fda179aeca38de316058a9f943af3101b6"
       },
       "homepage": "https://github.com/adobe/skills/tree/main/plugins/creative-cloud/adobe-for-creativity"
     },
